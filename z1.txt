@@ -1,0 +1,18 @@
+git --version
+git version 2.43.0
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+git config --list
+user.name=Mladen
+user.mail=mladenristicrile@gmail.com
+init.defaultbranch=master
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=git@github.com:risticmladen/z1_dev203.git
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+git log
