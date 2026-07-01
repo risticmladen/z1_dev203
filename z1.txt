@@ -73,3 +73,9 @@ origin  git@github.com:risticmladen/z1_dev203.git (fetch)
 origin  git@github.com:risticmladen/z1_dev203.git (push)
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+git rev-parse HEAD
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>
