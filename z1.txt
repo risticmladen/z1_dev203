@@ -16,3 +16,60 @@ remote.origin.url=git@github.com:risticmladen/z1_dev203.git
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 git log
+commit 7581863769054c136cbd88d05b39aede858f435c (HEAD -> master, origin/master)
+Author: Mladen <mladen.ristic@proton.me>
+Date:   Wed Jul 1 21:27:22 2026 +0000
+
+    added some new info to the file
+
+commit 6679dafbc0fb03b21620a0daabe9804b988f660e
+Author: Mladen <mladen.ristic@proton.me>
+Date:   Wed Jul 1 21:22:01 2026 +0000
+
+    added new entry
+
+commit 150f2d2ffa42aeec32035040b184222eccd26c77
+Author: Mladen <mladen.ristic@proton.me>
+Date:   Wed Jul 1 21:20:54 2026 +0000
+
+    added z1 txt file and new datetime log
+
+commit 1b7faf424c38d3e3f563477f7716f0119c604063
+Author: Mladen <mladen.ristic@proton.me>
+Date:   Wed Jul 1 21:17:40 2026 +0000
+
+    init datatime loger
+
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+git log --oneline 
+
+7581863 (HEAD -> master, origin/master) added some new info to the file
+6679daf added new entry
+150f2d2 added z1 txt file and new datetime log
+1b7faf4 init datatime loger
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+git remote show origin
+
+ remote origin
+  Fetch URL: git@github.com:risticmladen/z1_dev203.git
+  Push  URL: git@github.com:risticmladen/z1_dev203.git
+  HEAD branch: master
+  Remote branch:
+    master tracked
+  Local branch configured for 'git pull':
+    master merges with remote master
+  Local ref configured for 'git push':
+    master pushes to master (up to date)
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+git remote -v 
+origin  git@github.com:risticmladen/z1_dev203.git (fetch)
+origin  git@github.com:risticmladen/z1_dev203.git (push)
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>
